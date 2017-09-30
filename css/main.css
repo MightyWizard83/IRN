@@ -350,3 +350,25 @@ footer p {
   margin-top: 10px;
   margin-bottom: 0;
 }
+
+
+/* CUSTOMIZATION */
+
+#service .block.kots .icon {
+    
+}
+
+#service .block.lots .icon {
+    
+}
+
+#service .block.tournament-Eu-Ru .icon {
+    
+}
+
+#service .block.clanBattle .icon {
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: 50%;
+    background-image: url(../images/clanbattles_small.jpg);
+}
