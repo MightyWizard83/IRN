@@ -372,3 +372,6 @@ footer p {
     background-position: 50%;
     background-image: url(../images/clanbattles_small.jpg);
 }
+body {
+    background-color: #f6f6f7;
+}
