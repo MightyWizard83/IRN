@@ -374,3 +374,15 @@ footer p {
 body {
     background-color: #f6f6f7;
 }
+
+.kots .icon img {
+    margin-top: 8px;
+}
+
+.lots .icon img {
+    margin-top: 15px;
+}
+
+.tournament-Eu-Ru .icon img {
+     margin-top: 5px;
+}
