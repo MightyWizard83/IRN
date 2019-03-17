@@ -353,36 +353,37 @@ footer p {
 
 
 /* CUSTOMIZATION */
-
-#service .block.kots .icon {
-    
+body {
+    background-color: #f6f6f7;
 }
 
-#service .block.lots .icon {
-    
+#service .block {
+    min-height: 327px;
 }
 
-#service .block.tournament-Eu-Ru .icon {
-    
-}
-
+#service .block.kots .icon {}
+#service .block.lots .icon {}
+#service .block.tournament-Eu-Ru .icon {}
 #service .block.clanBattle .icon {
     background-repeat: no-repeat;
     background-position: 50%;
     background-image: url(../images/clanbattles_small.jpg);
 }
-body {
-    background-color: #f6f6f7;
-}
+#service .block.italianCup .icon {}
+#service .block.italianLeague .icon {}
+#service .block.italianSupercup .icon {}
+
 
 .kots .icon img {
     margin-top: 8px;
 }
-
 .lots .icon img {
     margin-top: 15px;
 }
-
 .tournament-Eu-Ru .icon img {
      margin-top: 5px;
 }
+.clanBattle .icon img {}
+.italianCup .icon img {}
+.italianLeague .icon img {}
+.italianSupercup .icon img {}
