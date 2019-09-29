@@ -372,6 +372,7 @@ body {
 #service .block.italianCup .icon {}
 #service .block.italianLeague .icon {}
 #service .block.italianSupercup .icon {}
+#service .block.clanBrawl .icon {}
 
 
 .kots .icon img {
@@ -390,3 +391,8 @@ body {
 }
 .italianLeague .icon img {}
 .italianSupercup .icon img {}
+.clanBrawl .icon img {
+  width: 90px;
+  height: 90px;
+}
+
